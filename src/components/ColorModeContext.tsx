@@ -53,8 +53,8 @@ const ColorModeProvider: FC<ColorModeProviderProps> = ({ children }) => {
                                 paper: '#969696',
                             },
                             text: {
-                                primary: '#36384b',
-                                secondary: '#41435A',
+                                primary: '#ffffff',
+                                secondary: '#969696',
                             },
                         }),
                 },
